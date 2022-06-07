@@ -72,3 +72,5 @@ const zodiacs = [
     symbol: 'Virgin',
   },
 ];
+
+module.exports = { zodiacs };
